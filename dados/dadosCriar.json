@@ -1,0 +1,17 @@
+{
+	"clientes":{
+		"email":"will@gmail",
+		"senha":"minha supersenha",
+		"celular":"130230240213",
+		"cpf":"229929293",
+		"nome":"will"
+	},
+	"enderecos":{
+		"rua":"lagoa",
+		"cep":"1234567",
+		"bairro":"montese",
+		"cidade":"fortaleza",
+		"complemento":"bloco a"
+	}
+	
+}
